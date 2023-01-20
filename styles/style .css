@@ -67,25 +67,25 @@ header{
 	margin: 2% 0;
 	padding: 0 217px;
 }
- button.btn-primary{
+button.btn-primary{
     background-color:var(--yellow) ;
     padding: 25px;
     font-family: 'Work Sans';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-color: #FFFFFF;
-border-radius: 8px;
-border:none;
-box-shadow: 0;
-margin:2% 0 5%;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    border-radius: 8px;
+    border:none;
+    box-shadow: 0;
+    margin:2% 0 5%;
 }
 
 .banner-img img{
- width: 100%;
+    width: 100%;
 }
-/*banner-part-end*/
-/*feature-part-start*/
+    /*banner-part-end*/
+    /*feature-part-start*/
 .feature{
     padding:7% 0;
     display: flex;
@@ -104,12 +104,12 @@ margin:2% 0 5%;
 }
 .feature-txt p{
     font-family: 'Poppins', sans-serif;
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 26px;
-color: #727272;
-margin: 3% 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    margin: 3% 0;
 }
 .feature-txt h2{
     font-family: 'Poppins', sans-serif;
@@ -121,7 +121,7 @@ margin: 3% 0;
     color: #FF900E;
 }
 span.span1{
-color:#131313;
+    color:#131313;
 }
 span.span2{
    color: #727272
@@ -148,22 +148,22 @@ span.span2{
 .feature-love-txt div h3{
     
     font-family: 'Poppins', sans-serif;font-style: normal;
-font-weight: 700;
-font-size: 45px;
-line-height: 53px;
-padding-left: 15px;
-border-left: 4px solid #FF900E;
-color: #131313;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    padding-left: 15px;
+    border-left: 4px solid #FF900E;
+    color: #131313;
 }
 
 .feature-love-txt div p{
     font-family: 'Poppins', sans-serif;
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 26px;
-margin-top: 3%;
-color: #727272;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    margin-top: 3%;
+    color: #727272;
 
 
 }
@@ -179,11 +179,11 @@ color: #727272;
 }
 .sub-part1 h4{
     font-family: 'Poppins', sans-serif;
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 23px;
-color: #131313;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #131313;
 }
 .feature-love-img{
     width: 40%;
@@ -247,8 +247,8 @@ button.btn-secondary span{
     
 }
 .all-facts{
-display: flex;
-justify-content: space-evenly;
+    display: flex;
+    justify-content: space-evenly;
 
 }
 .fact{
@@ -276,7 +276,7 @@ justify-content: space-evenly;
     font-weight: 600;
     font-size: 16px;
     line-height: 23px;
- color: #727272;
+    color: #727272;
 }
 .fact:hover{
     transform: scale(1.1);
@@ -319,14 +319,14 @@ justify-content: space-evenly;
 }
 footer div p{
     font-family: 'Poppins', sans-serif;
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 23px;
-text-align: center;
-color: #424242;
-padding:20px;
-background-color: #fff4e7;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: center;
+    color: #424242;
+    padding:20px;
+    background-color: #fff4e7;
 }
 @media only screen and (max-width:576px) {
     .nav-bar{
